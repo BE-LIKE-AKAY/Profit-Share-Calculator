@@ -1,0 +1,16 @@
+{
+"name":"Profit Engine",
+"short_name":"ProfitCalc",
+"start_url":".",
+"display":"standalone",
+"background_color":"#0a0a0f",
+"theme_color":"#00ffff",
+"icons":[
+{
+"src":"https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+"sizes":"192x192",
+"type":"image/png"
+}
+]
+}
+
